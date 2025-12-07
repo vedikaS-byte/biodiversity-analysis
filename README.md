@@ -1,7 +1,9 @@
 # Biodiversity Intactness Index Change in Phoenix, AZ
 
 ## Description 
-Maricopa County, the fourth most populous county in the US, houses more than half of Arizona's residents. 
+Maricopa County, the fourth most populous county in the US, houses more than half of Arizona's residents. The county had a population of 4.5 million people as of 2022 and was listed as the fasted growing county in the US with nearly 56,000 people added during July 2021-2022 (Maricopa County, n.d.).
+
+
 
 ## Contents
 This repository is organizated as follows and contains: 
@@ -10,8 +12,8 @@ This repository is organizated as follows and contains:
 ```
 Biodiversity Intactness Index Change in Phoenix, AZ
 ├── README.md
- ├── biodiversty-analysis.ipynb
- ├── .gitignore
+├── biodiversty-analysis.ipynb
+├── .gitignore
 ```
     
     
